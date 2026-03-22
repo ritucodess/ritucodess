@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&duration=3000&pause=1500&color=E07BA0&center=true&vCenter=true&width=650&lines=Ritu+Patil)](https://github.com/ritucodess)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1500&color=A78BCA&center=true&vCenter=true&width=650&lines=UI+%2F+UX+Designer+%E2%80%A2+Figma+%E2%80%A2+Canva;AI+%26+Data+Science+Enthusiast;B.Tech+CSE+%E2%80%94+Fresher;Open+for+Internship+%26+Design+Roles+2025)](https://github.com/ritucodess)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1500&color=A78BCA&center=true&vCenter=true&width=650&lines=UI+%2F+UX+Designer+%E2%80%A2+Figma+%E2%80%A2+Canva;AI+%26+Data+Science+Enthusiast;B.Tech+CSE+%E2%80%94;Open+for+Internship+%26+Design+Roles+2025)](https://github.com/ritucodess)
 
 </div>
 
@@ -22,8 +22,8 @@
 
 ```yaml
 name     : Ritu Patil
-degree   : B.Tech Computer Science — Fresher
-location : India
+degree   : B.Tech AI - DS
+location : Nashik , India
 status   : Seeking Internship — UI/UX Design / AI-DS / Frontend
 focus    : User-centered design, visual storytelling, AI-assisted workflows
 tools    : Figma · Canva · VS Code
